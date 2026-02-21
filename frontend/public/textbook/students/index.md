@@ -5,6 +5,7 @@
 - [Ethan Cam](/cis-110/#/textbook/students/f25/ethan-cam)
 - [Hannah M King](/cis-110/#/textbook/students/f25/hannah-m-king)
 - [James Moore](/cis-110/#/textbook/students/f25/james-moore)
+- [Jenna Alexander](/cis-110/#/textbook/students/f25/jenna-alexander)
 - [Nathaniel J Gregory](/cis-110/#/textbook/students/f25/nathaniel-j-gregory)
 - [Payton T Lohre](/cis-110/#/textbook/students/f25/payton-t-lohre)
 - [Rachael Hart](/cis-110/#/textbook/students/f25/rachael-hart)
